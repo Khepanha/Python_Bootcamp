@@ -1,5 +1,5 @@
 # Python_Bootcamp
-For python Bootcamp: you can learn only one month, there four week to improve your python.
+One month python coding, there four week to improve your python.
 In each week there are Exercise and Project, you can learn more about python.
 week01: (20 exercises and 3 projects)
 week02: (20 exercises and 3 projects)
